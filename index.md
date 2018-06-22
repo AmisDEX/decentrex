@@ -1,4 +1,5 @@
 Instructions for retrieving funds and tokens from the decentrex smart contract:
+
 Decentrex open source beta project was closed with no further support because of very low volume and very low users attention compared with its "mother" etherdelta (decentrex was a fork of etherdelta like many other etherdelta forks you can find on github) and due to high Ethereum network fees and the fact that Ethereum network is unstable. You can use old smartcontract ABI to withdraw all your tokens any time:
 
 - You can use myetherwallet.com to perform withdraw function using smart contract ABI or any other Ethereum software.
