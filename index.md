@@ -1,6 +1,9 @@
-Instructions for retrieving funds and tokens from the decentrex smart contract:
+:memo: Instructions for :unlock: retrieving funds and tokens from the decentrex smart contract:
 
-Decentrex open source beta project was closed with no further support because of very low volume and very low users attention compared with its "mother" etherdelta (decentrex was a fork of etherdelta like many other etherdelta forks you can find on github) and due to high Ethereum network fees and the fact that Ethereum network is unstable. You can use old smartcontract ABI to withdraw all your tokens any time:
+Decentrex open source beta project was closed with no further support because of very low volume and very low users attention compared with its "mother" etherdelta (decentrex was a fork of etherdelta like many other etherdelta forks you can find on github) and due to high Ethereum network fees and the fact that Ethereum network is unstable. 
+
+# OPTION1
+You can use old smartcontract ABI to withdraw all your tokens any time:
 
 - You can use myetherwallet.com to perform withdraw function using smart contract ABI or any other Ethereum software.
 - Go to https://www.myetherwallet.com/#contracts
@@ -15,3 +18,7 @@ Decentrex open source beta project was closed with no further support because of
 - Specify the amount in wei - 1 ETH = 1000000000000000000 wei, for tokens specify the token smart contract address and token amount.
 - Select your Ethereum account private keys and click the "WRITE" button to perform smart contract function. You can adjust gas price before performing any smart contract function.
 - All other etherdelta instructions should work too.
+
+# OPTION2
+If OPTION1 does not fit your need you can choose to follow the OPTION2 method:
+Alternatively use the Decentrex GUI here => [https://amisolution.github.io/amis-decentrex](https://amisolution.github.io/amis-decentrex) 
